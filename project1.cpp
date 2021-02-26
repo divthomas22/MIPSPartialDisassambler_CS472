@@ -1,6 +1,5 @@
-// import the input/output and vector libraries 
+// import the input/output library
 #include <iostream>
-#include <vector>
 using namespace std;
 
 // For R-Format Instructions: seperates instruction into proper field variables
