@@ -1,5 +1,7 @@
 # MIPS Partial Disassembler
 CS472 - Computer Architecture Project - February 2021
+<br>
+Author: Divya Thomas
 <br><br>
 [Run this program on Repl.it!](https://repl.it/@divthomas/Project1CA)
 
