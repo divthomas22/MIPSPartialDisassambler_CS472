@@ -46,9 +46,9 @@ For the branch instructions (beq, bne), don't try to invent a label for the dest
 <br><br>
 ## Included Project Documents / Additional Links <a name="links" />
 
-[Source Code](MIPS_Disassembler/Project1SrcCode_DivyaThomas.cpp)
+[Source Code](Project1SrcCode_DivyaThomas.cpp)
 
-[Output](MIPS_Disassembler/Project1Output_DivyaThomas.txt)
+[Output](Project1Output_DivyaThomas.txt)
 
 [Run this program on Repl.it!](https://repl.it/@divthomas/Project1CA)
 
