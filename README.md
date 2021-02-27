@@ -9,8 +9,6 @@ Author: Divya Thomas
 ## File Contents
 [Project Description/Requirements](#desc)
 
-[Techologies Used](#tech)
-
 [Included Project Documents/Additional Links](#links)
 
 <br><br>
@@ -37,11 +35,6 @@ The "shamt" field in R-type instructions can always be assumed to be all zeroes.
 For the branch instructions (beq, bne), don't try to invent a label for the destination to branch to. Just indicate the address of the destination. So if you've disassembled a beq $7, $8 instruction at 9A05C that is branching to an instruction at address 9A080, then your output should be:
 
 > 9A05C beq $7, $8, address 9A080
-
-<br><br>
-## Technologies Used <a name="tech" />
-
-  C++17
 
 <br><br>
 ## Included Project Documents / Additional Links <a name="links" />
