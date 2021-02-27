@@ -18,7 +18,7 @@ Author: Divya Thomas
 
 Your project is to write a partial disassembler for MIPS instructions. That is, your input will be the 32-bit machine instructions that a compiler or assembler produces. Your program then figures out what the original source instructions were that created those 32-bit machine instructions and outputs them. The possible source instructions that you must be able to disassemble are: add, sub, and, or, slt, lw, sw, beq, bne. Ignore all other MIPS instructions.
 
-<b>The specific machine instructions that you will disassemble (one after another in this exact order) are: </b> 
+**The specific machine instructions that you will disassemble (one after another in this exact order) are: **
 
 > 0x032BA020, 0x8CE90014, 0x12A90003, 0x022DA822, 0xADB30020, 0x02697824, 0xAE8FFFF4, 0x018C6020, 0x02A4A825, 0x158FFFF7, 0x8ECDFFF0
 
