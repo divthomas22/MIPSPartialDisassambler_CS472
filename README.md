@@ -1,5 +1,5 @@
 # MIPS Partial Disassembler
-CS472 - Computer Architecture Project - February 2021
+CS472: Computer Architecture - February 2021
 <br>
 Author: Divya Thomas
 <br><br>
